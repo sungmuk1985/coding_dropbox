@@ -1,0 +1,13 @@
+brew
+brew install --cask "파일명"
+brew search
+brew list
+brew unstall
+
+git
+git add
+git commit -m "메세지"
+git Push orgin master
+git Remote
+
+
